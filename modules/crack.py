@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 """
     CRYPT Brute Forcer, Password Hash Brute Forcing Tool
-    Copyright (C) 2022  N1nj4 R8
+    Copyright (C) 2022  Ninja Left
 
     CRYPT Brute Forcer is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
