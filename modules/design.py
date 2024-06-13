@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 """
     CRYPT, Encryption/Decryption Tool
-    Copyright (C) 2022  Ninja Left
+    Copyright (C) 2024  Ninja Left
 
     CRYPT is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -70,7 +70,7 @@ def Crypt_Logo(c1: str, c2: str, c3: str):
     smallW = f"""
            {c1}   ▄▄████████▄▄
            {c1} ▐███▀      ▀███▌
-           {c1} ██▌          ▐██ 
+           {c1} ██▌          ▐██
            {c1}▐██            ██▌
            {c1}▐█▌            ▐█▌
            {c1}▐█▌            ▐█▌
@@ -131,7 +131,7 @@ def about(c1: str, c2: str, c3: str, c4: str):
           GNU General Public License for more details.
           You should have received a copy of the GNU General Public License
           along with CRYPT.  If not, see <https://www.gnu.org/licenses/>.
-          
+
                  TheAlgorithms/Python/ciphers <https://github.com/TheAlgorithms/Python>
                  MIT Copyright (c) 2016-2022  TheAlgorithms and contributors
 """
@@ -148,7 +148,7 @@ info_b16 = f"""{gry}
     character set can be used, in practice the ASCII digits '0'–'9' and
     the letters 'A'–'F' (or the lowercase 'a'–'f') are always chosen in
     order to align with standard written notation for hexadecimal numbers.
-    
+
         More info: https://en.wikipedia.org/wiki/Hexadecimal#Base16_(transfer_encoding)
     """
 
@@ -222,7 +222,7 @@ info_cc_bf = f"""{gry}
     the key and tries every single combination. This is easy with the caesar
     cipher since there are only all the letters in the alphabet. The more
     complex the cipher, the larger amount of time it will take to do brute force
-    
+
         Example:
     Say we have a 5 letter alphabet (abcde), for simplicity and we intercepted the
     following message:
@@ -230,7 +230,7 @@ info_cc_bf = f"""{gry}
     we could then just write out every combination:
     ecd... and so on, until we reach a combination that makes sense:
     "cab"
-    
+
         More info: https://en.wikipedia.org/wiki/Brute-force_attack
 
 """
@@ -272,7 +272,7 @@ info_bc = f"""{gry}
     replaced by a group of five of the letters 'A' or 'B'.
     This replacement is a 5-bit binary encoding and is done
     according to the alphabet of the Baconian cipher.
-    
+
         More info: https://en.wikipedia.org/wiki/Bacon%27s_cipher
 """
 
