@@ -116,7 +116,7 @@ def about(c1: str, c2: str, c3: str, c4: str):
 
 {c1}                  ╔══════════════════════════════════════╗
 {c1}                  ║     {c2}Developed by... {c3}N1nj4 R8         {c1}║
-{c1}                  ║     {c2}Email: {c4}n1nj4r8@proton.me         {c1}║
+{c1}                  ║     {c2}Email: {c4}ninjaleft@proton.me       {c1}║
 {c1}                  ╚════╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦════╝
 {c1}                       ╚╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╝{wte}
                       CRYPT, Encryption/Decryption Tool
