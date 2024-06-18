@@ -94,8 +94,8 @@ Thanks in advance for considering to help me on this project.
 You can read [CONTRIBUTING.md] for details on contributing to the project.
 
 ## Roadmap
-- [ ] Remove the menus and change the UI.
-
+See [ROADMAP.md] for details.
 
 [LICENSE]: ./LICENSE
 [CONTRIBUTING.md]: ./CONTRIBUTING.md
+[ROADMAP.md]: ./ROADMAP.md
