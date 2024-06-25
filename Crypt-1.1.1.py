@@ -246,7 +246,7 @@ while True:
         elif cmd_main == "8":  # Vigenère Cipher
             functions.cl()
             try:
-                vig_input = get_functions.get_input()
+                vig_input = functions.get_input()
                 mode = input(f"{grn}   [+] (E)ncrypt or (D)ecrypt?{wte} ").upper()
                 if mode not in ["E", "D"]:
                     raise Exception(f"Bad mode: {mode}; Mode must be 'E' or 'D'.")
